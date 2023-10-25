@@ -7,3 +7,16 @@ body{
 nav{
     background-color: rgb(55, 196, 47, );
 }
+
+footer{
+    background-color:  rgb(55, 196, 47, );
+    height: 30px;
+}
+
+
+.card-deck{
+    
+    width: 65rem;
+    height: 30rem;
+    margin-left: 12%;
+}
